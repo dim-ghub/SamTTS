@@ -1,0 +1,13 @@
+{
+  "name": "dusky-sam",
+  "version": "1.0.0",
+  "description": "Clipboard-to-TTS using SAM with mpv playback",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "sam-js": "^0.3.1"
+  }
+}
